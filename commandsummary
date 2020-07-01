@@ -1,0 +1,11 @@
+1. Getting help on a specific command- :help
+2. Home row keys for manipulating location: h-left,j-down,l-right,k-up
+3. Insertion mode- use key i
+4. Appending- use key a,A
+5. Substitution - use key r or cw
+6. Undoing the last command - use key u
+7. Dropping into a command line mode - use key 0 for beginning of line, $ for ending of line, #G to go that numbered line
+8. Range based deletion and substution - use #dd or #,#d for range deletion & for range substitution use #,#/oldword/newword/g or for all use %s/oldword/newword/g
+9.Finding a character or string in a document- use /word
+10. Four ways of quitting a document - use key :q, :q!, zz, :w, :wq, e! or esc key.
+11. Running a shell command from editor- :!command
