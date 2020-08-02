@@ -1,0 +1,5 @@
+#!/bin/bash
+oldpath=$1
+direct="$oldpath ${direct:$PWD' '}"
+cd $oldpath
+echo "$direct"

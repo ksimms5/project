@@ -1,0 +1,7 @@
+import binascii
+input = raw_input("Enter a string")
+print("Converting to binary:")
+binput = binascii.a2b_base64(input.strip())
+print(binput)
+print("Converting back to string:")
+print(binascii.b2a_base64(binput))

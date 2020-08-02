@@ -1,0 +1,133 @@
+REMARK 465     MET A   434                                                      
+SEQADV 4HKD MET A  434  UNP  Q13188              EXPRESSION TAG                 
+SEQADV 4HKD MET B  434  UNP  Q13188              EXPRESSION TAG                 
+SEQADV 4HKD MET C  434  UNP  Q13188              EXPRESSION TAG                 
+SEQADV 4HKD MET D  434  UNP  Q13188              EXPRESSION TAG                 
+SEQRES   1 A   53  GLY ALA MET ASP ASP PHE ASP PHE LEU LYS ASN LEU SER          
+SEQRES   2 A   53  LEU GLU GLU LEU GLN MET ARG LEU LYS ALA LEU ASP PRO          
+SEQRES   3 A   53  MET MET GLU ARG GLU ILE GLU GLU LEU ARG GLN ARG TYR          
+SEQRES   4 A   53  THR ALA LYS ARG GLN PRO ILE LEU ASP ALA MET ASP ALA          
+SEQRES   1 B   53  GLY ALA MET ASP ASP PHE ASP PHE LEU LYS ASN LEU SER          
+SEQRES   2 B   53  LEU GLU GLU LEU GLN MET ARG LEU LYS ALA LEU ASP PRO          
+SEQRES   3 B   53  MET MET GLU ARG GLU ILE GLU GLU LEU ARG GLN ARG TYR          
+SEQRES   4 B   53  THR ALA LYS ARG GLN PRO ILE LEU ASP ALA MET ASP ALA          
+SEQRES   1 C   53  GLY ALA MET ASP ASP PHE ASP PHE LEU LYS ASN LEU SER          
+SEQRES   2 C   53  LEU GLU GLU LEU GLN MET ARG LEU LYS ALA LEU ASP PRO          
+SEQRES   3 C   53  MET MET GLU ARG GLU ILE GLU GLU LEU ARG GLN ARG TYR          
+SEQRES   4 C   53  THR ALA LYS ARG GLN PRO ILE LEU ASP ALA MET ASP ALA          
+SEQRES   1 D   53  GLY ALA MET ASP ASP PHE ASP PHE LEU LYS ASN LEU SER          
+SEQRES   2 D   53  LEU GLU GLU LEU GLN MET ARG LEU LYS ALA LEU ASP PRO          
+SEQRES   3 D   53  MET MET GLU ARG GLU ILE GLU GLU LEU ARG GLN ARG TYR          
+SEQRES   4 D   53  THR ALA LYS ARG GLN PRO ILE LEU ASP ALA MET ASP ALA          
+MODRES 4HKD MET A  450  MET  SELENOMETHIONINE                                   
+MODRES 4HKD MET A  458  MET  SELENOMETHIONINE                                   
+MODRES 4HKD MET A  459  MET  SELENOMETHIONINE                                   
+MODRES 4HKD MET A  481  MET  SELENOMETHIONINE                                   
+MODRES 4HKD MET B  434  MET  SELENOMETHIONINE                                   
+MODRES 4HKD MET B  450  MET  SELENOMETHIONINE                                   
+MODRES 4HKD MET B  458  MET  SELENOMETHIONINE                                   
+MODRES 4HKD MET B  459  MET  SELENOMETHIONINE                                   
+MODRES 4HKD MET B  481  MET  SELENOMETHIONINE                                   
+MODRES 4HKD MET C  434  MET  SELENOMETHIONINE                                   
+MODRES 4HKD MET C  450  MET  SELENOMETHIONINE                                   
+MODRES 4HKD MET C  458  MET  SELENOMETHIONINE                                   
+MODRES 4HKD MET C  459  MET  SELENOMETHIONINE                                   
+MODRES 4HKD MET C  481  MET  SELENOMETHIONINE                                   
+MODRES 4HKD MET D  434  MET  SELENOMETHIONINE                                   
+MODRES 4HKD MET D  450  MET  SELENOMETHIONINE                                   
+MODRES 4HKD MET D  458  MET  SELENOMETHIONINE                                   
+MODRES 4HKD MET D  459  MET  SELENOMETHIONINE                                   
+MODRES 4HKD MET D  481  MET  SELENOMETHIONINE                                   
+HET    MET  A 450       8                                                       
+HET    MET  A 458       8                                                       
+HET    MET  A 459       8                                                       
+HET    MET  A 481       8                                                       
+HET    MET  B 434       8                                                       
+HET    MET  B 450      16                                                       
+HET    MET  B 458       8                                                       
+HET    MET  B 459       8                                                       
+HET    MET  B 481       8                                                       
+HET    MET  C 434       8                                                       
+HET    MET  C 450       8                                                       
+HET    MET  C 458      16                                                       
+HET    MET  C 459       8                                                       
+HET    MET  C 481       8                                                       
+HET    MET  D 434       8                                                       
+HET    MET  D 450      16                                                       
+HET    MET  D 458       8                                                       
+HET    MET  D 459       8                                                       
+HET    MET  D 481       8                                                       
+HETNAM     MET SELENOMETHIONINE                                                 
+FORMUL   1  MET    19(C5 H11 N O2 SE)                                           
+LINK         C   GLN A 449                 N   MET A 450     1555   1555  1.32  
+LINK         C   MET A 450                 N   ARG A 451     1555   1555  1.32  
+LINK         C   PRO A 457                 N   MET A 458     1555   1555  1.33  
+LINK         C   MET A 458                 N   MET A 459     1555   1555  1.33  
+LINK         C   MET A 459                 N   GLU A 460     1555   1555  1.33  
+LINK         C   ALA A 480                 N   MET A 481     1555   1555  1.33  
+LINK         C   MET A 481                 N   ASP A 482     1555   1555  1.33  
+LINK         C   ALA B 433                 N   MET B 434     1555   1555  1.33  
+LINK         C   MET B 434                 N   ASP B 435     1555   1555  1.33  
+LINK         C   GLN B 449                 N  AMET B 450     1555   1555  1.33  
+LINK         C   GLN B 449                 N  BMET B 450     1555   1555  1.33  
+LINK         C  AMET B 450                 N   ARG B 451     1555   1555  1.33  
+LINK         C  BMET B 450                 N   ARG B 451     1555   1555  1.33  
+LINK         C   PRO B 457                 N   MET B 458     1555   1555  1.33  
+LINK         C   MET B 458                 N   MET B 459     1555   1555  1.33  
+LINK         C   MET B 459                 N   GLU B 460     1555   1555  1.33  
+LINK         C   ALA B 480                 N   MET B 481     1555   1555  1.33  
+LINK         C   MET B 481                 N   ASP B 482     1555   1555  1.33  
+LINK         C   ALA C 433                 N   MET C 434     1555   1555  1.33  
+LINK         C   MET C 434                 N   ASP C 435     1555   1555  1.33  
+LINK         C   GLN C 449                 N   MET C 450     1555   1555  1.33  
+LINK         C   MET C 450                 N   ARG C 451     1555   1555  1.33  
+LINK         C   PRO C 457                 N  AMET C 458     1555   1555  1.33  
+LINK         C   PRO C 457                 N  BMET C 458     1555   1555  1.33  
+LINK         C  AMET C 458                 N   MET C 459     1555   1555  1.33  
+LINK         C  BMET C 458                 N   MET C 459     1555   1555  1.33  
+LINK         C   MET C 459                 N   GLU C 460     1555   1555  1.33  
+LINK         C   ALA C 480                 N   MET C 481     1555   1555  1.33  
+LINK         C   MET C 481                 N   ASP C 482     1555   1555  1.33  
+LINK         C   ALA D 433                 N   MET D 434     1555   1555  1.33  
+LINK         C   MET D 434                 N   ASP D 435     1555   1555  1.33  
+LINK         C   GLN D 449                 N  AMET D 450     1555   1555  1.32  
+LINK         C   GLN D 449                 N  BMET D 450     1555   1555  1.33  
+LINK         C  AMET D 450                 N   ARG D 451     1555   1555  1.33  
+LINK         C  BMET D 450                 N   ARG D 451     1555   1555  1.34  
+LINK         C   PRO D 457                 N   MET D 458     1555   1555  1.33  
+LINK         C   MET D 458                 N   MET D 459     1555   1555  1.33  
+LINK         C   MET D 459                 N   GLU D 460     1555   1555  1.33  
+LINK         C   ALA D 480                 N   MET D 481     1555   1555  1.33  
+LINK         C   MET D 481                 N   ASP D 482     1555   1555  1.33  
+HETATM  129  N   MET A 450      -4.523  16.830 119.280  1.00 14.88           N  
+HETATM  130  CA  MET A 450      -5.537  17.804 118.911  1.00 15.65           C  
+HETATM  131  C   MET A 450      -4.879  19.123 118.543  1.00 17.10           C  
+HETATM  132  O   MET A 450      -5.236  19.759 117.559  1.00 17.40           O  
+HETATM  133  CB  MET A 450      -6.526  17.998 120.062  1.00 18.59           C  
+HETATM  134  CG  MET A 450      -7.603  19.027 119.787  1.00 24.54           C  
+HETATM  135 SE   MET A 450      -8.866  19.181 121.271  1.00 55.26          SE  
+HETATM  136  CE  MET A 450      -7.749  20.188 122.510  1.00 28.83           C  
+HETATM  190  N   MET A 458      -5.438  26.206 110.481  1.00 20.67           N  
+HETATM  191  CA  MET A 458      -4.929  27.525 110.795  1.00 21.41           C  
+HETATM  192  C   MET A 458      -3.956  28.006 109.728  1.00 22.83           C  
+HETATM  193  O   MET A 458      -4.013  29.158 109.293  1.00 20.89           O  
+HETATM  194  CB  MET A 458      -4.233  27.515 112.149  1.00 22.50           C  
+HETATM  195  CG  MET A 458      -3.768  28.885 112.581  1.00 26.80           C  
+HETATM  196 SE   MET A 458      -2.809  28.782 114.261  1.00 43.47          SE  
+HETATM  197  CE  MET A 458      -3.964  27.475 115.158  1.00 21.77           C  
+HETATM  198  N   MET A 459      -3.047  27.127 109.323  1.00 20.53           N  
+HETATM  199  CA  MET A 459      -2.091  27.472 108.290  1.00 18.81           C  
+HETATM  200  C   MET A 459      -2.810  27.728 106.975  1.00 20.89           C  
+HETATM  201  O   MET A 459      -2.492  28.681 106.267  1.00 19.36           O  
+HETATM  202  CB  MET A 459      -1.055  26.367 108.101  1.00 17.24           C  
+HETATM  203  CG  MET A 459      -0.040  26.705 107.035  1.00 15.43           C  
+HETATM  204 SE   MET A 459       1.354  25.373 106.858  1.00 22.78          SE  
+HETATM  205  CE  MET A 459       0.380  24.019 105.869  1.00 19.69           C  
+HETATM  378  N   MET A 481      -4.311  47.064  82.302  1.00 11.80           N  
+HETATM  379  CA  MET A 481      -3.835  46.641  80.994  1.00 13.25           C  
+HETATM  380  C   MET A 481      -4.965  46.643  79.972  1.00 13.84           C  
+HETATM  381  O   MET A 481      -4.793  47.100  78.833  1.00 13.49           O  
+HETATM  382  CB  MET A 481      -3.203  45.258  81.074  1.00  9.50           C  
+HETATM  383  CG  MET A 481      -1.937  45.229  81.914  1.00  9.58           C  
+HETATM  384 SE   MET A 481      -0.958  43.547  81.786  1.00 18.77          SE  
+HETATM  385  CE  MET A 481      -0.263  43.735  79.991  1.00 16.62           C  

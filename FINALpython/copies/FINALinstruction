@@ -1,0 +1,16 @@
+ls -latR /home/ksimms5/lab3 > newfile
+awk '!/^d/' newfile >> FINALinstruction
+/home/ksimms5/lab3:
+total 272
+-rwxrwxr-x.  1 ksimms5@gsuad.gsu.edu ksimms5@gsuad.gsu.edu   197 Jul  1 01:13 knuts2string.sh
+-rwxrwxr-x.  1 ksimms5@gsuad.gsu.edu ksimms5@gsuad.gsu.edu   161 Jul  1 01:12 knuts2.sh
+-rw-rw-r--.  1 ksimms5@gsuad.gsu.edu ksimms5@gsuad.gsu.edu 30537 Jul  1 00:46 atomlist2
+-rwxrwxr-x.  1 ksimms5@gsuad.gsu.edu ksimms5@gsuad.gsu.edu    69 Jul  1 00:46 sort.sh
+-rw-rw-r--.  1 ksimms5@gsuad.gsu.edu ksimms5@gsuad.gsu.edu  6885 Jul  1 00:46 HETATMlist
+-rwxrwxr-x.  1 ksimms5@gsuad.gsu.edu ksimms5@gsuad.gsu.edu   230 Jul  1 00:45 mean.sh
+-rwxrwxr-x.  1 ksimms5@gsuad.gsu.edu ksimms5@gsuad.gsu.edu   622 Jul  1 00:45 minmaxtake2.sh
+-rwxrwxr-x.  1 ksimms5@gsuad.gsu.edu ksimms5@gsuad.gsu.edu    33 Jul  1 00:37 sedname
+-rwxrwxr-x.  1 ksimms5@gsuad.gsu.edu ksimms5@gsuad.gsu.edu    74 Jul  1 00:22 namechanger.sh
+-rwxrwxr-x.  1 ksimms5@gsuad.gsu.edu ksimms5@gsuad.gsu.edu    75 Jul  1 00:21 headremover.sh
+-rw-r--r--.  1 ksimms5@gsuad.gsu.edu ksimms5@gsuad.gsu.edu 94284 Jul  1 00:18 4HKDog.pdb
+-rw-r--r--.  1 ksimms5@gsuad.gsu.edu ksimms5@gsuad.gsu.edu 94284 Jul  1 00:18 4HKD.pdb

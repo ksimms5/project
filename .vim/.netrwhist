@@ -1,8 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/home/ksimms5/Submissions'
 let g:netrw_dirhist_2='/home/ksimms5/Submissions/ReadME.md'
 let g:netrw_dirhist_3='/home/ksimms5/Submissions'
 let g:netrw_dirhist_4='/home/ksimms5'
 let g:netrw_dirhist_5='/home'
 let g:netrw_dirhist_6='/home/ksimms5/Submissions/ReadME.md'
+let g:netrw_dirhist_7='/home/ksimms5/Submissions/cstheory.meta.stackexchange.com'
+let g:netrw_dirhist_8='/home/ksimms5/FINALc'
+let g:netrw_dirhist_9='/home/ksimms5/FINALinstruction'

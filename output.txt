@@ -1,0 +1,37 @@
+character	frequency	 word frequency
+a				 4				 1
+b				24				 1
+c				 1				 1
+d				115				 1
+e				15				 1
+f				34				 1
+g				80				 1
+h				166				 1
+i				32				 1
+j				31				 1
+k				77				 1
+l				122				 1
+n				 6				 1
+o				47				 1
+p				42				 1
+q				97				 1
+r				98				 1
+s				22				 1
+u				74				 1
+v				82				 1
+w				150				 1
+x				34				 1
+y				19				 1
+z				25				 1
+
+Special characters -
+
+"				 2
+'				 3
+,				29
+.				11
+;				 4
+
+Total no. of Special characters are 49 
+
+Total no. of words are 397 
